@@ -1,3 +1,9 @@
+# Защита проекта
+
+### [Регистрация на защиту](http://final-registration.azurewebsites.net) будет открыта 22 ноября 00:00
+
+Если у вас в этот день файнал заполните поля _Final start hour_ и _Final end hour_
+
 # Требования к проекту
 
 ### Дизайн должен быть по guidline-ам Microsoft, Google или Apple
