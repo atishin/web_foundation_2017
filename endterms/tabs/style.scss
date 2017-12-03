@@ -1,0 +1,28 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 auto;
+    align-items: stretch;
+}
+   
+.tabs-wrapper {
+    display: flex;
+    padding: 20px;
+    padding-bottom: 0;
+    border-bottom: 1px solid #ccc;
+    padding-left: 0;
+
+    button {
+        border: none;
+        background: none;
+        padding: 20px;
+        cursor: pointer;
+
+        &#selected {
+            background: #ccc;
+        }
+    }
+}
+
